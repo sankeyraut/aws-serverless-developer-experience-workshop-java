@@ -130,3 +130,4 @@ Outputs:
   ImageUploadBucketName:
     Value: !Ref UnicornPropertiesImagesBucket
     Description: "S3 bucket for property images"
+
