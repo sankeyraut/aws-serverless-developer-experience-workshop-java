@@ -44,7 +44,7 @@ Conditions:
 
 Globals:
   Function:
-    Runtime: java17
+    Runtime: java21
     MemorySize: 512
     Timeout: 15
     Tracing: Active
